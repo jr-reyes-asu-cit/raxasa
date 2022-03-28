@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raxasa
+- 👋 Hi, I’m @jeff
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Javascript[I know, my homies also hate javascript]
+- 🌱 I’m currently learning Javascript[even tho, my homies hate javascript]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
